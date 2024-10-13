@@ -1,4 +1,4 @@
-package com.security.basic.global.config;
+package com.security.basic.global.config.jpa;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;
