@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# security-basic
-security basic
-=======
+
 # Security
 
 ### 1. 회원가입 (POST /api/v1/member)
